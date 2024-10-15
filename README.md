@@ -2,7 +2,7 @@
 
 # Portafolio Ficticio
 
-¡Bienvenidos a este portafolio ficticio! Este proyecto ha sido creado como parte de un desafío para demostrar la estructura y contenido que podría tener un portafolio profesional.
+¡Bienvenidos a este portafolio ficticio! Este proyecto fue sido creado como parte de un desafío para demostrar la estructura y contenido que podría tener un portafolio profesional.
 
 ## Demo 
 Puedes ver un [demo](https://galbickus.github.io/Portafolio-Juan2/) de la aplicación aquí.
@@ -28,14 +28,14 @@ El objetivo de este portafolio es simular cómo podría presentarse un profesion
 
 - **Figma**: Para el diseño de la interfaz.
 - **HTML/CSS**: Para la estructura y estilo del portafolio.
-- **JavaScript**: Para agregar interactividad (si es aplicable).
+- **JavaScript**: Para agregar interactividad.
 - **Trello**: Para la gestión del proyecto y organización de tareas.
 
 ## Cómo Usar
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/portafolio-ficticio.git
+   git clone https://github.com/Galbickus/Portafolio-Juan2
 
 ## Agradecimiento 
 
