@@ -1,12 +1,9 @@
 /*CSS Reset / Normalize*/
-/* Hemos disponibilizado el básico de reset de estilos. Si quieren, añadan más informaciones 
+/* básico de reset de estilos. Para que se añadan más informaciones 
 en las secciones señaladas */
-/*Já deixaremos o básico de reset de estilos. Caso queira adicionar mais informações
-coloque nas sessões indicadas*/
 
 :root {
     /* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
-    /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
     --cor-de-fundo: #222;
     --col-de-fondo-secon: #333;
     --cor-de-link: #fff;
@@ -56,9 +53,9 @@ h1,h2,h3,h4,h5,h6{
     padding: 0px;
 }
 
-/*En este desafío nosostros gustaríamos que ustedes intentaran utilizar la metodología BEM. 
+/*Intentar utilizar la metodología BEM. 
 
-Lo que es el BEM?
+que es el BEM?
 
 BEM (Bloque, Elemento, Modificador) es un enfoque basado en componentes para el 
 desarrollo web. La idea detrás de esto es dividir la interfaz de usuario en bloques
@@ -429,7 +426,7 @@ section.formcontato {
     border: 2px solid var(--fondo-boton);
     cursor: pointer;
 }
-/*footeer*/
+/*footer*/
 
 section.footer {
     box-sizing: border-box;
@@ -439,8 +436,7 @@ section.footer {
     width:100%;
 }
 
-/* Vamos a desafiarnos trabajando con responsividad?
-Utiliza las referencias de los breakpoints @media abajo */
+/* referencias de los breakpoints @media abajo */
 
 /*Escritorio*/
 @media (max-width:1200px) {
